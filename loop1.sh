@@ -3,5 +3,5 @@ echo "this is the first shell script"
 while $true
 do 
 	$RANDOM
-	sleep 
+	sleep=1
 done	
